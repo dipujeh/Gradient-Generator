@@ -1,2 +1,3 @@
 # Gradient-Generator
-Gradient Color Generator
+https://dipujeh.github.io/Gradient-Generator/
+
